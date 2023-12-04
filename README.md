@@ -1,7 +1,7 @@
 # My Firefox Settings
-user.js and css files
-Better privacy and removing clutter from the browser
-The large majority of this is not my work and i dont take credit
+1. user.js and css files
+1. Better privacy and removing clutter from the browser
+1. The large majority of this is not my work and i dont take credit
 ## What it comes from
 - Betterfox user.js - I re enabled the sync but my disable it again
 - [https://github.com/Bali10050 - Firefox ](https://github.com/Bali10050/FirefoxCSS) - mostly the same as this with a few minor tweeks to the toolbar and bookmarks
