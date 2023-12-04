@@ -3,7 +3,8 @@
 1. Better privacy and removing clutter from the browser
 1. The large majority of this is not my work and i dont take credit
 ## What it comes from
-- [Betterfox user.js](https://github.com/yokoffing/Betterfox) - I re enabled the sync but my disable it again 
+
+- [[Betterfox user.js](https://github.com/yokoffing/Betterfox) - I re enabled the sync but my disable it again 
 - [https://github.com/Bali10050 - Firefox ](https://github.com/Bali10050/FirefoxCSS) - mostly the same as this with a few minor tweeks to the toolbar and bookmarks
 
 ## What I Changed
