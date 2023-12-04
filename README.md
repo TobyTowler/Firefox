@@ -8,6 +8,6 @@
 - [Bali10050 - FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - mostly the same as this with a few minor tweeks to the toolbar and bookmarks
 
 ## What I Changed
-At the bottom of each file there are comments of what i changed (i think for everything if not i just commented some stuff out)
-
+- At the bottom of each file there are comments of what i changed (i think for everything if not i just commented some stuff out)
+- Compact mode turned on
 ### I pretty much just made this README for fun lol
