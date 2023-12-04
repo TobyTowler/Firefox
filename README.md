@@ -5,7 +5,7 @@
 ## What it comes from
 
 - [Betterfox user.js](https://github.com/yokoffing/Betterfox) - I re enabled the sync but my disable it again 
-- [https://github.com/Bali10050 - Firefox ](https://github.com/Bali10050/FirefoxCSS) - mostly the same as this with a few minor tweeks to the toolbar and bookmarks
+- [Bali10050 - FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - mostly the same as this with a few minor tweeks to the toolbar and bookmarks
 
 ## What I Changed
 At the bottom of each file there are comments of what i changed (i think for everything if not i just commented some stuff out)
