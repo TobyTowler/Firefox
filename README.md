@@ -1,7 +1,7 @@
 # My Firefox Settings
 The large majority of this is not my work and i dont take credit
 ## What it comes from
-- Betterfox user.js - I reenabled the sync but my disable it again
+- Betterfox user.js - I re enabled the sync but my disable it again
 - [https://github.com/Bali10050 - Firefox ](https://github.com/Bali10050/FirefoxCSS) - mostly the same as this with a few minor tweeks to the toolbar and bookmarks
 
 ## What I Changed
