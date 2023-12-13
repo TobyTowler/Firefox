@@ -2,6 +2,8 @@
 1. user.js and css files
 1. Better privacy and removing clutter from the browser
 1. The large majority of this is not my work and i dont take credit
+
+![image](https://github.com/TobyTowler/Firefox/assets/135618916/69908160-9613-436c-a74d-f4749967e8c4)
 ## What it comes from
 
 - [Betterfox user.js](https://github.com/yokoffing/Betterfox) - I re enabled the sync but may disable it again 
